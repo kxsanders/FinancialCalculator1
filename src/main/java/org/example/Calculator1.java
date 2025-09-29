@@ -33,6 +33,7 @@ public class Calculator1 {
         int monthlyPayments = years * 12;
 
         // Now it's time to apply the formula.
+        // M = P × (i * (1 + i )^n / ( (1 + i)^n ) - 1)
         // So, let's break it down.
 
         // This is the first half before the /

@@ -34,9 +34,5 @@ public class Calculator2 {
         System.out.printf("Future value after %d years: $%.2f.", matureYear, futureValue);
         System.out.printf("Total Interest earned: $%.2f.", interestEarned);
 
-
-
-
-
     }
 }

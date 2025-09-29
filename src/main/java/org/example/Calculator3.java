@@ -32,12 +32,5 @@ public class Calculator3 {
 
         System.out.printf("Present value: $%.2f.", presentValue);
 
-
-
-
-
-
-
-
     }
 }
